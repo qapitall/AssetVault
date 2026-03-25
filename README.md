@@ -61,7 +61,9 @@ SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
 ### 4. Initialize the database
 
 1. Go to your Supabase SQL editor
-2. Run the migration from `supabase/migrations/00001_initial_schema.sql`
+2. Run the migrations in order:
+   - `supabase/migrations/00001_reset_schema.sql`
+   - `supabase/migrations/00002_create_schema.sql`
 3. If you see schema cache errors, run:
    ```sql
    NOTIFY pgrst, 'reload schema';
