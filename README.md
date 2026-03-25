@@ -61,9 +61,7 @@ SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
 ### 4. Initialize the database
 
 1. Go to your Supabase SQL editor
-2. Run the migrations in order:
-   - `supabase/migrations/00001_reset_schema.sql`
-   - `supabase/migrations/00002_create_schema.sql`
+2. Run the migration from `supabase/migrations/00001_create_schema.sql`
 3. If you see schema cache errors, run:
    ```sql
    NOTIFY pgrst, 'reload schema';
@@ -93,22 +91,23 @@ npm start        # Start production server
 ## Project Structure
 
 ```
+middleware.ts                 # Auth guards, locale detection, rate limiting
 src/
 ├── app/                      # Next.js App Router
-│   ├── [locale]/            # Locale-prefixed routes (active)
+│   ├── [locale]/            # Locale-prefixed routes
 │   │   ├── (auth)/         # Login, signup, password reset
 │   │   └── (dashboard)/    # Main application
-│   └── (auth)/ & (dashboard)/  # Legacy routes (deprecated)
 ├── actions/                 # Server Actions (mutations)
 ├── components/              # React components
+├── hooks/                   # Custom React hooks
 ├── lib/
 │   ├── supabase/           # Supabase clients (server, client, admin)
 │   └── rate-limit.ts       # Rate limiting for auth endpoints
 ├── types/
 │   └── database.ts         # Hand-maintained TypeScript types
 ├── messages/               # i18n translation files
-├── middleware.ts           # Auth guards, locale detection, rate limiting
-└── i18n.ts                # i18n configuration
+├── i18n/                   # i18n configuration
+└── i18n.ts                # i18n setup
 ```
 
 ---
