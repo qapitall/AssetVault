@@ -1,0 +1,322 @@
+{
+  "layout": {
+    "logo": "AssetVault",
+    "nav": {
+      "signIn": "Anmelden",
+      "getStarted": "Erste Schritte",
+      "dashboard": "Dashboard",
+      "assets": "Vermögenswerte",
+      "platforms": "Plattformen",
+      "tags": "Tags"
+    },
+    "language": {
+      "label": "Sprache"
+    },
+    "userMenu": {
+      "user": "Benutzer",
+      "signOut": "Abmelden"
+    },
+    "footer": {
+      "copyright": "Kostenlos & Open Source"
+    }
+  },
+  "home": {
+    "badge": "100% Kostenlos & Open Source",
+    "hero": {
+      "title": {
+        "line1": "Verwalte Game-Assets und 3D-",
+        "line2": "Modelle an einem Ort.",
+        "highlight": "Kostenlos und Open Source."
+      },
+      "description": "Höre auf, die Vermögenswerte zu verlieren, die du vor Monaten über Dutzende von E-Mails und Marktplatz-Konten gekauft hast. AssetVault katalogisiert alles, das du in Unity Asset Store, Unreal Marketplace, ArtStation, Envato und mehr besitzt – damit du dich auf das Bauen konzentrieren kannst, nicht auf das Suchen.",
+      "cta": "Kostenlos beginnen",
+      "github": "Auf GitHub anzeigen"
+    },
+    "features": {
+      "title": "Alles, was du brauchst, um organisiert zu bleiben",
+      "subtitle": "Einfache aber leistungsstarke Werkzeuge zur Verwaltung deiner wachsenden Sammlung digitaler Vermögenswerte.",
+      "items": {
+        "catalog": {
+          "title": "Asset-Katalog",
+          "description": "Speichere und organisiere alle deine digitalen Vermögenswerte mit Notizen und Vorschaubildern."
+        },
+        "multiPlatform": {
+          "title": "Multi-Plattform",
+          "description": "Verfolge Käufe über Unity, Unreal, ArtStation, Envato, itch.io und viele mehr."
+        },
+        "smartTags": {
+          "title": "Intelligente Tags",
+          "description": "Organisiere mit benutzerdefinierten Tags und Standardkategorien für sofortige Filterung."
+        },
+        "secure": {
+          "title": "Sicher & Privat",
+          "description": "Deine Daten sind privat und sicher. Nur du kannst auf deine Asset-Bibliothek zugreifen."
+        }
+      }
+    },
+    "useCase": {
+      "title": "Entwickelt für Spieleentwickler & 3D-Künstler",
+      "example": "Stell dir vor, du entwickelst eine Cyberpunk-Cybercafé-Managementsimulation namens \"Neon Nexus\". Spieler reparieren alte Hardware und verkaufen Cybersicherheitsdienste. Du hast Unity-Pakete für Hacking-Mini-Spiele, Low-Poly-Computer-Hardware-Modelle von Sketchfab, Synthwave-Soundloops von Gumroad und Neon-UI-Texturen von Envato gekauft.",
+      "problem": "Ohne AssetVault sind diese Käufe über vier verschiedene Marktplatz-Konten und Dutzende von E-Mail-Quittungen verteilt. Mit AssetVault sind alle mit Tags versehen, durchsuchbar und auf einem Dashboard organisiert.",
+      "libraryTitle": "Neon Nexus — Asset-Bibliothek",
+      "tags": {
+        "threeDModel": "3D-Modell",
+        "environment": "Umgebung",
+        "scripts": "Skripte",
+        "gameplay": "Gameplay",
+        "audio": "Audio",
+        "sfx": "SFX",
+        "ui": "UI",
+        "texture": "Textur",
+        "characters": "Charaktere"
+      },
+      "exampleAssets": {
+        "buildings": {
+          "title": "Cyberpunk-Innenausstattungs-Pack",
+          "platform": "Unity Asset Store"
+        },
+        "system": {
+          "title": "Hacking-Mini-Spiel-System Pro",
+          "platform": "Unity Asset Store"
+        },
+        "sfx": {
+          "title": "Synthwave & Neon-Ambiente-SFX",
+          "platform": "Gumroad"
+        },
+        "ui": {
+          "title": "Neon-HUD-UI-Kit",
+          "platform": "Envato"
+        },
+        "animals": {
+          "title": "Low-Poly-Computer-Hardware-Set",
+          "platform": "Sketchfab"
+        }
+      }
+    },
+    "cta": {
+      "title": "Bereit zu organisieren?",
+      "description": "Treten Entwicklern und Künstlern bei, die AssetVault zur Verwaltung ihrer Bibliotheken digitaler Vermögenswerte verwenden. Keine Kreditkarte erforderlich, keine versteckten Gebühren – nie.",
+      "button": "Kostenlos beginnen"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Willkommen",
+      "subtitle": "Melde dich bei deinem AssetVault-Konto an",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "signIn": "Anmelden",
+      "forgotPassword": "Passwort vergessen?",
+      "noAccount": "Hast du kein Konto?",
+      "signUp": "Registrieren"
+    },
+    "signup": {
+      "title": "Konto erstellen",
+      "subtitle": "Beginne deine digitalen Vermögenswerte zu verwalten",
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "confirmPassword": "Passwort bestätigen",
+      "createAccount": "Konto erstellen",
+      "haveAccount": "Hast du bereits ein Konto?",
+      "signIn": "Anmelden",
+      "verification": {
+        "title": "📧 E-Mail-Verifizierung erforderlich",
+        "description": "Nach der Kontoerstellung senden wir dir einen Verifizierungslink. Verifiziere deine E-Mail, bevor du dein Konto verwendest."
+      },
+      "success": "Konto erstellt! Überprüfe dein E-Mail-Postfach, um deine E-Mail-Adresse zu bestätigen.",
+      "error": "Konto konnte nicht erstellt werden"
+    },
+    "forgotPassword": {
+      "title": "Passwort zurücksetzen",
+      "subtitle": "Gib deine E-Mail ein und wir senden dir einen Zurücksetzen-Link",
+      "email": "E-Mail",
+      "submit": "Zurücksetzen-Link senden",
+      "sending": "Sendet...",
+      "success": {
+        "title": "Überprüfe deine E-Mail",
+        "description": "Wir haben dir einen Passwort-Zurücksetzen-Link gesendet. Überprüfe deinen Posteingang.",
+        "backToSignIn": "Zurück zur Anmeldung"
+      },
+      "rememberPassword": "Erinnerst du dich an dein Passwort?",
+      "signIn": "Anmelden"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Willkommen in deinem Asset-Management-Hub",
+    "stats": {
+      "totalAssets": "Insgesamt Assets",
+      "platforms": "Plattformen",
+      "tags": "Tags"
+    },
+    "recentAssets": {
+      "title": "Neueste Assets",
+      "viewAll": "Alle anzeigen",
+      "noPlatform": "Keine Plattform",
+      "noAssets": "Noch keine Assets",
+      "addFirst": "Füge dein erstes Asset hinzu"
+    }
+  },
+  "assets": {
+    "title": "Vermögenswerte",
+    "summary": "{count} Assets insgesamt",
+    "noAssets": "Keine Vermögenswerte gefunden",
+    "noAssetsYet": "Noch keine Vermögenswerte",
+    "viewAsset": "Anzeigen",
+    "create": {
+      "title": "Neues Asset hinzufügen",
+      "subtitle": "Katalogisiere einen neuen digitalen Vermögenswert in deiner Bibliothek",
+      "newBtn": "Neues Asset",
+      "submit": "Asset erstellen"
+    },
+    "edit": {
+      "title": "Asset bearbeiten",
+      "subtitle": "Asset-Details aktualisieren",
+      "submit": "Asset aktualisieren"
+    },
+    "form": {
+      "title": "Titel",
+      "titlePlaceholder": "Asset-Name",
+      "platform": "Plattform",
+      "purchaseUrl": "Kauf-URL",
+      "notes": "Notizen",
+      "tags": "Tags",
+      "notesPlaceholder": "Optionale Notizen zu diesem Asset...",
+      "save": "Speichern",
+      "cancel": "Abbrechen",
+      "saving": "Speichert...",
+      "creating": "Wird erstellt...",
+      "updating": "Wird aktualisiert...",
+      "selectPlatform": "Wähle eine Plattform...",
+      "selectPlatformName": "Wähle einen Plattformnamen"
+    },
+    "messages": {
+      "created": "Asset erstellt",
+      "updated": "Asset aktualisiert",
+      "deleted": "Asset gelöscht",
+      "createFailed": "Asset konnte nicht erstellt werden",
+      "updateFailed": "Asset konnte nicht aktualisiert werden",
+      "deleteFailed": "Asset konnte nicht gelöscht werden",
+      "fetchFailed": "Asset konnte nicht abgerufen werden"
+    },
+    "upload": {
+      "label": "Vorschaubild",
+      "button": "Bild hochladen",
+      "previewAlt": "Vorschau",
+      "invalidFileType": "Ungültiger Dateityp. Akzeptiert: JPEG, PNG, WebP, GIF",
+      "fileTooLarge": "Die Dateigröße muss kleiner als 5 MB sein",
+      "uploadFailed": "Bild konnte nicht hochgeladen werden"
+    },
+    "filters": {
+      "search": "Vermögenswerte durchsuchen...",
+      "searchPlaceholder": "Nach Titel suchen...",
+      "platform": "Plattform",
+      "tag": "Tag",
+      "allPlatforms": "Alle Plattformen",
+      "allTags": "Alle Tags"
+    },
+    "detail": {
+      "addedOn": "Hinzugefügt am {date}",
+      "edit": "Bearbeiten",
+      "delete": "Löschen",
+      "deleteTitle": "Asset löschen",
+      "details": "Details",
+      "confirmDelete": "Bist du sicher, dass du diesen Vermögenswert löschen möchtest?",
+      "confirmDeletePrefix": "Möchtest du wirklich löschen:",
+      "confirmDeleteSuffix": "Diese Aktion kann nicht rückgängig gemacht werden.",
+      "deleteConfirm": "Löschen",
+      "deleting": "Wird gelöscht..."
+    },
+    "pagination": {
+      "previous": "Zurück",
+      "next": "Weiter",
+      "pageOf": "Seite {page} von {totalPages}"
+    }
+  },
+  "platforms": {
+    "title": "Plattformen",
+    "subtitle": "Verwalte deine Marktplatz-Konten",
+    "create": {
+      "title": "Plattform hinzufügen",
+      "newBtn": "Plattform hinzufügen"
+    },
+    "form": {
+      "name": "Plattformname",
+      "account": "Kontoname",
+      "accountPlaceholder": "dein-benutzername",
+      "url": "Konto-URL",
+      "save": "Speichern",
+      "cancel": "Abbrechen",
+      "saving": "Speichert...",
+      "update": "Aktualisieren",
+      "select": "Wähle eine Plattform...",
+      "selectName": "Wähle einen Plattformnamen"
+    },
+    "messages": {
+      "created": "Plattform hinzugefügt",
+      "updated": "Plattform aktualisiert",
+      "deleted": "Plattform gelöscht",
+      "saveFailed": "Plattform konnte nicht gespeichert werden"
+    },
+    "empty": "Es wurden noch keine Plattformen hinzugefügt"
+  },
+  "tags": {
+    "title": "Tags",
+    "subtitle": "Verwalte Tags, um deine Vermögenswerte zu organisieren",
+    "create": {
+      "title": "Tag erstellen",
+      "button": "Hinzufügen"
+    },
+    "form": {
+      "name": "Tag-Name...",
+      "save": "Hinzufügen",
+      "saving": "Wird erstellt...",
+      "cancel": "Abbrechen"
+    },
+    "sections": {
+      "default": "Standard-Tags",
+      "custom": "Benutzerdefinierte Tags"
+    },
+    "messages": {
+      "created": "Tag erstellt",
+      "updated": "Tag aktualisiert",
+      "deleted": "Tag gelöscht",
+      "createFailed": "Tag konnte nicht erstellt werden",
+      "updateFailed": "Tag konnte nicht aktualisiert werden",
+      "deleteFailed": "Tag konnte nicht gelöscht werden"
+    },
+    "actions": {
+      "edit": "Bearbeiten",
+      "delete": "Löschen",
+      "count": "Benutzerdefinierte Tags ({count})"
+    },
+    "selector": {
+      "label": "Tags",
+      "placeholder": "Tags auswählen...",
+      "default": "standard",
+      "empty": "Keine Tags verfügbar"
+    },
+    "empty": "Noch keine benutzerdefinierten Tags. Erstelle oben eines."
+  },
+  "errors": {
+    "pageNotFound": "Die Seite, nach der du suchst, existiert nicht",
+    "goBack": "Zurück zum Dashboard",
+    "tryAgain": "Versuche es erneut",
+    "somethingWentWrong": "Etwas ist schief gelaufen",
+    "unexpectedError": "Ein unerwarteter Fehler ist aufgetreten",
+    "tooManyRequests": "Zu viele Anfragen. Bitte versuche es später erneut."
+  },
+  "common": {
+    "loading": "Laden...",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "add": "Hinzufügen",
+    "create": "Erstellen",
+    "close": "Schließen",
+    "submit": "Absenden",
+    "confirm": "Bestätigen"
+  }
+}

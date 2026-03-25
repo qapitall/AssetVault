@@ -1,0 +1,322 @@
+{
+  "layout": {
+    "logo": "AssetVault",
+    "nav": {
+      "signIn": "Giriş Yap",
+      "getStarted": "Başla",
+      "dashboard": "Dashboard",
+      "assets": "Varlıklar",
+      "platforms": "Platformlar",
+      "tags": "Etiketler"
+    },
+    "language": {
+      "label": "Dil"
+    },
+    "userMenu": {
+      "user": "Kullanıcı",
+      "signOut": "Çıkış yap"
+    },
+    "footer": {
+      "copyright": "Ücretsiz & Açık Kaynak"
+    }
+  },
+  "home": {
+    "badge": "% 100 Ücretsiz & Açık Kaynak",
+    "hero": {
+      "title": {
+        "line1": "Oyun varlıklarını ve 3D",
+        "line2": "modellerini tek yerde yönet.",
+        "highlight": "Ücretsiz ve Açık Kaynak."
+      },
+      "description": "E-postalarınız ve pazar yeri hesaplarınız arasında aylar önce satın aldığınız varlıkları kaybedeceğiniz endişesinden kurtulun. AssetVault, Unity Asset Store, Unreal Marketplace, ArtStation, Envato ve daha fazlasında sahip olduğunuz her şeyi kataloglar — böylece inşaa etmeye odaklanabilirsiniz, arama yapmakla değil.",
+      "cta": "Ücretsiz Başla",
+      "github": "GitHub'da Görüntüle"
+    },
+    "features": {
+      "title": "Düzenli kalmanız için ihtiyaç duyduğunuz her şey",
+      "subtitle": "Büyüyen dijital varlık koleksiyonunuzu yönetmek için basit ama güçlü araçlar.",
+      "items": {
+        "catalog": {
+          "title": "Varlık Kataloğu",
+          "description": "Tüm dijital varlıklarınızı notlar ve ön izleme görüntüleriyle saklayın ve düzenleyin."
+        },
+        "multiPlatform": {
+          "title": "Multi-Platform",
+          "description": "Unity, Unreal, ArtStation, Envato, itch.io ve daha fazlasında satın alımları izleyin."
+        },
+        "smartTags": {
+          "title": "Akıllı Etiketler",
+          "description": "Özel etiketler ve varsayılan kategorilerle düzenleyin ve anında filtrelemek için."
+        },
+        "secure": {
+          "title": "Güvenli & Özel",
+          "description": "Verileriniz özel ve güvenlidir. Yalnızca siz varlık kütüphaneinize erişebilirsiniz."
+        }
+      }
+    },
+    "useCase": {
+      "title": "Oyun yapımcıları & 3D sanatçılar için yapıldı",
+      "example": "\"Neon Nexus\" adında bir siberpunk siber kafe yönetim simülasyonu yaptığınızı düşünün. Oyuncular eski donanımları tamir eder ve siber güvenlik hizmeti satar. Hacking mini-oyunları için Unity paketleri, Sketchfab'den düşük poly bilgisayar donanım modelleri, Gumroad'dan synthwave ses döngüleri ve Envato'dan neon UI dokuları satın aldınız.",
+      "problem": "AssetVault olmadan, bu satın alımlar dört farklı pazar yeri hesabına ve düzine e-posta makbuzuna dağılır. AssetVault ile, hepsi etiketlenmiş, aranabilir ve bir panelde organize edilmiş durumdadır.",
+      "libraryTitle": "Neon Nexus — Varlık Kütüphanesi",
+      "tags": {
+        "threeDModel": "3D Model",
+        "environment": "Çevre",
+        "scripts": "Script",
+        "gameplay": "Oynanış",
+        "audio": "Ses",
+        "sfx": "SFX",
+        "ui": "UI",
+        "texture": "Doku",
+        "characters": "Karakterler"
+      },
+      "exampleAssets": {
+        "buildings": {
+          "title": "Siberpunk İç Mekan Aksesuar Paketi",
+          "platform": "Unity Asset Store"
+        },
+        "system": {
+          "title": "Hacking Mini-Oyun Sistemi Pro",
+          "platform": "Unity Asset Store"
+        },
+        "sfx": {
+          "title": "Synthwave & Neon Ortam SFX",
+          "platform": "Gumroad"
+        },
+        "ui": {
+          "title": "Neon HUD Arayüz Kiti",
+          "platform": "Envato"
+        },
+        "animals": {
+          "title": "Düşük Poly Bilgisayar Donanım Seti",
+          "platform": "Sketchfab"
+        }
+      }
+    },
+    "cta": {
+      "title": "Düzenli olmaya hazır mısınız?",
+      "description": "Dijital varlık kütüphanelerini yönetmek için AssetVault'u kullanan geliştiriciler ve sanatçılara katılın. Kredi kartı yok, gizli ücret yok — asla.",
+      "button": "Ücretsiz Başla"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Hoş geldiniz",
+      "subtitle": "AssetVault hesabınıza giriş yapın",
+      "email": "E-posta",
+      "password": "Şifre",
+      "signIn": "Giriş Yap",
+      "forgotPassword": "Şifrenizi mi unuttunuz?",
+      "noAccount": "Hesabınız yok mu?",
+      "signUp": "Kaydol"
+    },
+    "signup": {
+      "title": "Hesap Oluştur",
+      "subtitle": "Dijital varlıklarınızı yönetmeye başlayın",
+      "fullName": "Tam Ad",
+      "email": "E-posta",
+      "password": "Şifre",
+      "confirmPassword": "Şifreyi Onayla",
+      "createAccount": "Hesap Oluştur",
+      "haveAccount": "Zaten bir hesabınız var mı?",
+      "signIn": "Giriş yap",
+      "verification": {
+        "title": "📧 E-Posta Doğrulaması Gereklidir",
+        "description": "Hesap oluşturduktan sonra e-posta adresinize bir doğrulama linki göndereceğiz. Lütfen hesabınızı kullanmaya başlamadan önce e-postanızı doğrulayın."
+      },
+      "success": "Hesabınız oluşturuldu! E-posta adresinizi doğrulamak için e-posta gelen kutunuzu kontrol edin.",
+      "error": "Hesap oluşturulamadı"
+    },
+    "forgotPassword": {
+      "title": "Şifrenizi sıfırlayın",
+      "subtitle": "E-posta adresinizi girin ve size bir sıfırlama linki göndereceğiz",
+      "email": "E-posta",
+      "submit": "Sıfırlama linkini gönder",
+      "sending": "Gönderiliyor...",
+      "success": {
+        "title": "E-postanızı kontrol edin",
+        "description": "Size bir şifre sıfırlama linki gönderdik. Gelen kutunuzu kontrol edin.",
+        "backToSignIn": "Giriş sayfasına dön"
+      },
+      "rememberPassword": "Şifrenizi hatırlıyor musunuz?",
+      "signIn": "Giriş yap"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Varlık yönetim merkezinize hoş geldiniz",
+    "stats": {
+      "totalAssets": "Toplam Varlıklar",
+      "platforms": "Platformlar",
+      "tags": "Etiketler"
+    },
+    "recentAssets": {
+      "title": "Son Varlıklar",
+      "viewAll": "Tümünü görüntüle",
+      "noPlatform": "Platform yok",
+      "noAssets": "Henüz varlık yok",
+      "addFirst": "İlk varlığınızı ekleyin"
+    }
+  },
+  "assets": {
+    "title": "Varlıklar",
+    "summary": "Toplam {count} varlık",
+    "noAssets": "Varlık bulunamadı",
+    "noAssetsYet": "Henüz varlık yok",
+    "viewAsset": "Görüntüle",
+    "create": {
+      "title": "Yeni Varlık Ekle",
+      "subtitle": "Kütüphanenize yeni bir dijital varlık ekleyin",
+      "newBtn": "Yeni Varlık",
+      "submit": "Varlık Oluştur"
+    },
+    "edit": {
+      "title": "Varlığı Düzenle",
+      "subtitle": "Varlık detaylarını güncelleyin",
+      "submit": "Varlığı Güncelle"
+    },
+    "form": {
+      "title": "Başlık",
+      "titlePlaceholder": "Varlık adı",
+      "platform": "Platform",
+      "purchaseUrl": "Satın Alma URL'si",
+      "notes": "Notlar",
+      "tags": "Etiketler",
+      "notesPlaceholder": "Bu varlık hakkında isteğe bağlı notlar...",
+      "save": "Kaydet",
+      "cancel": "İptal",
+      "saving": "Kaydediliyor...",
+      "creating": "Oluşturuluyor...",
+      "updating": "Güncelleniyor...",
+      "selectPlatform": "Platform seçin...",
+      "selectPlatformName": "Platform adı seçin"
+    },
+    "messages": {
+      "created": "Varlık oluşturuldu",
+      "updated": "Varlık güncellendi",
+      "deleted": "Varlık silindi",
+      "createFailed": "Varlık oluşturulamadı",
+      "updateFailed": "Varlık güncellenemedi",
+      "deleteFailed": "Varlık silinemedi",
+      "fetchFailed": "Varlık alınamadı"
+    },
+    "upload": {
+      "label": "Önizleme Görseli",
+      "button": "Görsel yükle",
+      "previewAlt": "Önizleme",
+      "invalidFileType": "Geçersiz dosya türü. Kabul edilen: JPEG, PNG, WebP, GIF",
+      "fileTooLarge": "Dosya boyutu 5MB'den az olmalıdır",
+      "uploadFailed": "Görüntü yüklenemedi"
+    },
+    "filters": {
+      "search": "Varlıkları ara...",
+      "searchPlaceholder": "Başlığa göre ara...",
+      "platform": "Platform",
+      "tag": "Etiket",
+      "allPlatforms": "Tüm Platformlar",
+      "allTags": "Tüm Etiketler"
+    },
+    "detail": {
+      "addedOn": "Eklenme tarihi: {date}",
+      "edit": "Düzenle",
+      "delete": "Sil",
+      "deleteTitle": "Varlığı Sil",
+      "details": "Detaylar",
+      "confirmDelete": "Bu varlığı silmek istediğinizden emin misiniz?",
+      "confirmDeletePrefix": "Şunu silmek istediğinize emin misiniz:",
+      "confirmDeleteSuffix": "Bu işlem geri alınamaz.",
+      "deleteConfirm": "Sil",
+      "deleting": "Siliniyor..."
+    },
+    "pagination": {
+      "previous": "Önceki",
+      "next": "Sonraki",
+      "pageOf": "Sayfa {page} / {totalPages}"
+    }
+  },
+  "platforms": {
+    "title": "Platformlar",
+    "subtitle": "Pazar yeri hesaplarınızı yönetin",
+    "create": {
+      "title": "Platform Ekle",
+      "newBtn": "Platform Ekle"
+    },
+    "form": {
+      "name": "Platform Adı",
+      "account": "Hesap Adı",
+      "accountPlaceholder": "kullanici-adiniz",
+      "url": "Hesap URL'si",
+      "save": "Kaydet",
+      "cancel": "İptal",
+      "saving": "Kaydediliyor...",
+      "update": "Güncelle",
+      "select": "Platform seçin...",
+      "selectName": "Platform adı seçin"
+    },
+    "messages": {
+      "created": "Platform eklendi",
+      "updated": "Platform güncellendi",
+      "deleted": "Platform silindi",
+      "saveFailed": "Platform kaydedilemedi"
+    },
+    "empty": "Henüz platform eklenmedi"
+  },
+  "tags": {
+    "title": "Etiketler",
+    "subtitle": "Varlıklarınızı düzenlemek için etiketleri yönetin",
+    "create": {
+      "title": "Etiket Oluştur",
+      "button": "Ekle"
+    },
+    "form": {
+      "name": "Etiket adı...",
+      "save": "Ekle",
+      "saving": "Oluşturuluyor...",
+      "cancel": "İptal"
+    },
+    "sections": {
+      "default": "Varsayılan Etiketler",
+      "custom": "Özel Etiketler"
+    },
+    "messages": {
+      "created": "Etiket oluşturuldu",
+      "updated": "Etiket güncellendi",
+      "deleted": "Etiket silindi",
+      "createFailed": "Etiket oluşturulamadı",
+      "updateFailed": "Etiket güncellenemedi",
+      "deleteFailed": "Etiket silinemedi"
+    },
+    "actions": {
+      "edit": "Düzenle",
+      "delete": "Sil",
+      "count": "Özel Etiketler ({count})"
+    },
+    "selector": {
+      "label": "Etiketler",
+      "placeholder": "Etiket seçin...",
+      "default": "varsayılan",
+      "empty": "Kullanılabilir etiket yok"
+    },
+    "empty": "Henüz özel etiket yok. Yukarıdan bir tane oluşturun."
+  },
+  "errors": {
+    "pageNotFound": "Aradığınız sayfa bulunamadı",
+    "goBack": "Dashboard'a Dön",
+    "tryAgain": "Tekrar Dene",
+    "somethingWentWrong": "Bir şeyler yanlış gitti",
+    "unexpectedError": "Beklenmeyen bir hata oluştu",
+    "tooManyRequests": "Çok fazla istek. Lütfen daha sonra tekrar deneyin."
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "add": "Ekle",
+    "create": "Oluştur",
+    "close": "Kapat",
+    "submit": "Gönder",
+    "confirm": "Onayla"
+  }
+}

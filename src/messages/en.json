@@ -1,0 +1,322 @@
+{
+  "layout": {
+    "logo": "AssetVault",
+    "nav": {
+      "signIn": "Sign In",
+      "getStarted": "Get Started",
+      "dashboard": "Dashboard",
+      "assets": "Assets",
+      "platforms": "Platforms",
+      "tags": "Tags"
+    },
+    "language": {
+      "label": "Language"
+    },
+    "userMenu": {
+      "user": "User",
+      "signOut": "Sign out"
+    },
+    "footer": {
+      "copyright": "Free & Open Source"
+    }
+  },
+  "home": {
+    "badge": "100% Free & Open Source",
+    "hero": {
+      "title": {
+        "line1": "Manage game assets and 3D",
+        "line2": "models in one place.",
+        "highlight": "Free and Open Source."
+      },
+      "description": "Stop losing track of the assets you bought months ago across dozens of emails and marketplace accounts. AssetVault catalogs everything you own on Unity Asset Store, Unreal Marketplace, ArtStation, Envato, and more — so you can focus on building, not searching.",
+      "cta": "Start Free",
+      "github": "View on GitHub"
+    },
+    "features": {
+      "title": "Everything you need to stay organized",
+      "subtitle": "Simple yet powerful tools to manage your growing digital asset collection.",
+      "items": {
+        "catalog": {
+          "title": "Asset Catalog",
+          "description": "Store and organize all your digital assets with notes and preview images."
+        },
+        "multiPlatform": {
+          "title": "Multi-Platform",
+          "description": "Track purchases across Unity, Unreal, ArtStation, Envato, itch.io and many more."
+        },
+        "smartTags": {
+          "title": "Smart Tags",
+          "description": "Organize with custom tags and default categories for instant filtering."
+        },
+        "secure": {
+          "title": "Secure & Private",
+          "description": "Your data is private and secure. Only you can access your asset library."
+        }
+      }
+    },
+    "useCase": {
+      "title": "Built for game developers & 3D artists",
+      "example": "Imagine you're building a cyberpunk cyber cafe management sim called \"Neon Nexus.\" Players repair old hardware and sell cybersecurity services. You've purchased Unity asset packs for hacking mini-games, low-poly computer hardware models from Sketchfab, synthwave sound loops from Gumroad, and neon UI textures from Envato.",
+      "problem": "Without AssetVault, these purchases are scattered across four marketplace accounts and dozens of email receipts. With AssetVault, they're all tagged, searchable, and organized in one dashboard.",
+      "libraryTitle": "Neon Nexus — Asset Library",
+      "tags": {
+        "threeDModel": "3D Model",
+        "environment": "Environment",
+        "scripts": "Scripts",
+        "gameplay": "Gameplay",
+        "audio": "Audio",
+        "sfx": "SFX",
+        "ui": "UI",
+        "texture": "Texture",
+        "characters": "Characters"
+      },
+      "exampleAssets": {
+        "buildings": {
+          "title": "Cyberpunk Interior Props Pack",
+          "platform": "Unity Asset Store"
+        },
+        "system": {
+          "title": "Hacking Mini-Game System Pro",
+          "platform": "Unity Asset Store"
+        },
+        "sfx": {
+          "title": "Synthwave & Neon Ambience SFX",
+          "platform": "Gumroad"
+        },
+        "ui": {
+          "title": "Neon HUD UI Kit",
+          "platform": "Envato"
+        },
+        "animals": {
+          "title": "Low-Poly Computer Hardware Set",
+          "platform": "Sketchfab"
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to get organized?",
+      "description": "Join developers and artists using AssetVault to manage their digital asset libraries. No credit card needed, no hidden fees — ever.",
+      "button": "Start Free"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome",
+      "subtitle": "Sign in to your AssetVault account",
+      "email": "Email",
+      "password": "Password",
+      "signIn": "Sign In",
+      "forgotPassword": "Forgot your password?",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up"
+    },
+    "signup": {
+      "title": "Create Account",
+      "subtitle": "Get started managing your digital assets",
+      "fullName": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "createAccount": "Create Account",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "verification": {
+        "title": "📧 Email Verification Required",
+        "description": "After creating your account, we'll send you a verification link. Please verify your email before using your account."
+      },
+      "success": "Account created! Check your email to verify your email address.",
+      "error": "Failed to create account"
+    },
+    "forgotPassword": {
+      "title": "Reset your password",
+      "subtitle": "Enter your email and we'll send you a reset link",
+      "email": "Email",
+      "submit": "Send reset link",
+      "sending": "Sending...",
+      "success": {
+        "title": "Check your email",
+        "description": "We've sent you a password reset link. Check your inbox.",
+        "backToSignIn": "Back to sign in"
+      },
+      "rememberPassword": "Remember your password?",
+      "signIn": "Sign in"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Welcome to your asset management hub",
+    "stats": {
+      "totalAssets": "Total Assets",
+      "platforms": "Platforms",
+      "tags": "Tags"
+    },
+    "recentAssets": {
+      "title": "Recent Assets",
+      "viewAll": "View all",
+      "noPlatform": "No platform",
+      "noAssets": "No assets yet",
+      "addFirst": "Add your first asset"
+    }
+  },
+  "assets": {
+    "title": "Assets",
+    "summary": "{count} total assets",
+    "noAssets": "No assets found",
+    "noAssetsYet": "No assets yet",
+    "viewAsset": "View",
+    "create": {
+      "title": "Add New Asset",
+      "subtitle": "Catalog a new digital asset to your library",
+      "newBtn": "New Asset",
+      "submit": "Create Asset"
+    },
+    "edit": {
+      "title": "Edit Asset",
+      "subtitle": "Update asset details",
+      "submit": "Update Asset"
+    },
+    "form": {
+      "title": "Title",
+      "titlePlaceholder": "Asset name",
+      "platform": "Platform",
+      "purchaseUrl": "Purchase URL",
+      "notes": "Notes",
+      "tags": "Tags",
+      "notesPlaceholder": "Optional notes about this asset...",
+      "save": "Save",
+      "cancel": "Cancel",
+      "saving": "Saving...",
+      "creating": "Creating...",
+      "updating": "Updating...",
+      "selectPlatform": "Select a platform...",
+      "selectPlatformName": "Select a platform name"
+    },
+    "messages": {
+      "created": "Asset created",
+      "updated": "Asset updated",
+      "deleted": "Asset deleted",
+      "createFailed": "Failed to create asset",
+      "updateFailed": "Failed to update asset",
+      "deleteFailed": "Failed to delete asset",
+      "fetchFailed": "Failed to fetch asset"
+    },
+    "upload": {
+      "label": "Preview Image",
+      "button": "Upload image",
+      "previewAlt": "Preview",
+      "invalidFileType": "Invalid file type. Accepted: JPEG, PNG, WebP, GIF",
+      "fileTooLarge": "File size must be less than 5MB",
+      "uploadFailed": "Failed to upload image"
+    },
+    "filters": {
+      "search": "Search assets...",
+      "searchPlaceholder": "Search by title...",
+      "platform": "Platform",
+      "tag": "Tag",
+      "allPlatforms": "All Platforms",
+      "allTags": "All Tags"
+    },
+    "detail": {
+      "addedOn": "Added {date}",
+      "edit": "Edit",
+      "delete": "Delete",
+      "deleteTitle": "Delete Asset",
+      "details": "Details",
+      "confirmDelete": "Are you sure you want to delete this asset?",
+      "confirmDeletePrefix": "Are you sure you want to delete",
+      "confirmDeleteSuffix": "This action cannot be undone.",
+      "deleteConfirm": "Delete",
+      "deleting": "Deleting..."
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "pageOf": "Page {page} of {totalPages}"
+    }
+  },
+  "platforms": {
+    "title": "Platforms",
+    "subtitle": "Manage your marketplace accounts",
+    "create": {
+      "title": "Add Platform",
+      "newBtn": "Add Platform"
+    },
+    "form": {
+      "name": "Platform Name",
+      "account": "Account Name",
+      "accountPlaceholder": "your-username",
+      "url": "Account URL",
+      "save": "Save",
+      "cancel": "Cancel",
+      "saving": "Saving...",
+      "update": "Update",
+      "select": "Select a platform...",
+      "selectName": "Select a platform name"
+    },
+    "messages": {
+      "created": "Platform added",
+      "updated": "Platform updated",
+      "deleted": "Platform deleted",
+      "saveFailed": "Failed to save platform"
+    },
+    "empty": "No platforms added yet"
+  },
+  "tags": {
+    "title": "Tags",
+    "subtitle": "Manage tags to organize your assets",
+    "create": {
+      "title": "Create Tag",
+      "button": "Add"
+    },
+    "form": {
+      "name": "Tag name...",
+      "save": "Add",
+      "saving": "Creating...",
+      "cancel": "Cancel"
+    },
+    "sections": {
+      "default": "Default Tags",
+      "custom": "Custom Tags"
+    },
+    "messages": {
+      "created": "Tag created",
+      "updated": "Tag updated",
+      "deleted": "Tag deleted",
+      "createFailed": "Failed to create tag",
+      "updateFailed": "Failed to update tag",
+      "deleteFailed": "Failed to delete tag"
+    },
+    "actions": {
+      "edit": "Edit",
+      "delete": "Delete",
+      "count": "Custom Tags ({count})"
+    },
+    "selector": {
+      "label": "Tags",
+      "placeholder": "Select tags...",
+      "default": "default",
+      "empty": "No tags available"
+    },
+    "empty": "No custom tags yet. Create one above."
+  },
+  "errors": {
+    "pageNotFound": "The page you're looking for doesn't exist",
+    "goBack": "Back to Dashboard",
+    "tryAgain": "Try again",
+    "somethingWentWrong": "Something went wrong",
+    "unexpectedError": "An unexpected error occurred",
+    "tooManyRequests": "Too many requests. Please try again later."
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "create": "Create",
+    "close": "Close",
+    "submit": "Submit",
+    "confirm": "Confirm"
+  }
+}

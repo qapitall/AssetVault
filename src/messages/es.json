@@ -1,0 +1,322 @@
+{
+  "layout": {
+    "logo": "AssetVault",
+    "nav": {
+      "signIn": "Iniciar sesión",
+      "getStarted": "Comenzar",
+      "dashboard": "Panel de control",
+      "assets": "Recursos",
+      "platforms": "Plataformas",
+      "tags": "Etiquetas"
+    },
+    "language": {
+      "label": "Idioma"
+    },
+    "userMenu": {
+      "user": "Usuario",
+      "signOut": "Cerrar sesión"
+    },
+    "footer": {
+      "copyright": "Gratis & Código abierto"
+    }
+  },
+  "home": {
+    "badge": "100% Gratis & Código abierto",
+    "hero": {
+      "title": {
+        "line1": "Administra activos de juegos y modelos",
+        "line2": "3D en un solo lugar.",
+        "highlight": "Gratis y de código abierto."
+      },
+      "description": "Deja de perder la pista de los activos que compraste hace meses en decenas de correos electrónicos y cuentas de mercado. AssetVault cataloga todo lo que posees en Unity Asset Store, Unreal Marketplace, ArtStation, Envato y más — para que puedas enfocarte en construir, no en buscar.",
+      "cta": "Comenzar gratis",
+      "github": "Ver en GitHub"
+    },
+    "features": {
+      "title": "Todo lo que necesitas para mantenerte organizado",
+      "subtitle": "Herramientas simples pero potentes para administrar tu creciente colección de activos digitales.",
+      "items": {
+        "catalog": {
+          "title": "Catálogo de Recursos",
+          "description": "Almacena y organiza todos tus activos digitales con notas e imágenes de vista previa."
+        },
+        "multiPlatform": {
+          "title": "Multi-Plataforma",
+          "description": "Rastrear compras en Unity, Unreal, ArtStation, Envato, itch.io y muchas más."
+        },
+        "smartTags": {
+          "title": "Etiquetas inteligentes",
+          "description": "Organiza con etiquetas personalizadas y categorías predeterminadas para filtrado instantáneo."
+        },
+        "secure": {
+          "title": "Seguro y privado",
+          "description": "Tus datos son privados y seguros. Solo tú puedes acceder a tu biblioteca de activos."
+        }
+      }
+    },
+    "useCase": {
+      "title": "Construido para desarrolladores de juegos & artistas 3D",
+      "example": "Imagina que estás construyendo una simulación de gestión de café ciberpunk llamada \"Neon Nexus\". Los jugadores reparan hardware antiguo y venden servicios de ciberseguridad. Compraste paquetes de Unity para mini-juegos de hackeo, modelos de hardware de bajo poli de Sketchfab, loops de sonido synthwave de Gumroad y texturas UI neón de Envato.",
+      "problem": "Sin AssetVault, estas compras se distribuyen entre cuatro cuentas de mercado diferentes y docenas de recibos de correo electrónico. Con AssetVault, todos están etiquetados, son buscables y están organizados en un panel.",
+      "libraryTitle": "Neon Nexus — Biblioteca de Recursos",
+      "tags": {
+        "threeDModel": "Modelo 3D",
+        "environment": "Entorno",
+        "scripts": "Scripts",
+        "gameplay": "Jugabilidad",
+        "audio": "Audio",
+        "sfx": "SFX",
+        "ui": "UI",
+        "texture": "Textura",
+        "characters": "Personajes"
+      },
+      "exampleAssets": {
+        "buildings": {
+          "title": "Pack de Accesorios de Interior Ciberpunk",
+          "platform": "Unity Asset Store"
+        },
+        "system": {
+          "title": "Sistema Pro de Mini-Juego de Hackeo",
+          "platform": "Unity Asset Store"
+        },
+        "sfx": {
+          "title": "SFX Synthwave & Ambiente Neón",
+          "platform": "Gumroad"
+        },
+        "ui": {
+          "title": "Kit de UI HUD Neón",
+          "platform": "Envato"
+        },
+        "animals": {
+          "title": "Set de Hardware Informático de Bajo Poli",
+          "platform": "Sketchfab"
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Listo para organizarte?",
+      "description": "Únete a desarrolladores y artistas que usan AssetVault para administrar sus bibliotecas de activos digitales. Sin tarjeta de crédito, sin tarifas ocultas — nunca.",
+      "button": "Comenzar gratis"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Bienvenido",
+      "subtitle": "Inicia sesión en tu cuenta de AssetVault",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "signIn": "Iniciar sesión",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "noAccount": "¿No tienes una cuenta?",
+      "signUp": "Regístrate"
+    },
+    "signup": {
+      "title": "Crear cuenta",
+      "subtitle": "Comienza a administrar tus activos digitales",
+      "fullName": "Nombre completo",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "createAccount": "Crear cuenta",
+      "haveAccount": "¿Ya tienes una cuenta?",
+      "signIn": "Inicia sesión",
+      "verification": {
+        "title": "📧 Verificación de correo electrónico requerida",
+        "description": "Después de crear tu cuenta, te enviaremos un enlace de verificación. Verifica tu correo electrónico antes de usar tu cuenta."
+      },
+      "success": "¡Cuenta creada! Verifica tu correo electrónico para confirmar tu dirección de correo electrónico.",
+      "error": "No se pudo crear la cuenta"
+    },
+    "forgotPassword": {
+      "title": "Restablecer contraseña",
+      "subtitle": "Ingresa tu correo electrónico y te enviaremos un enlace de restablecimiento",
+      "email": "Correo electrónico",
+      "submit": "Enviar enlace de restablecimiento",
+      "sending": "Enviando...",
+      "success": {
+        "title": "Verifica tu correo electrónico",
+        "description": "Te enviamos un enlace para restablecer tu contraseña. Verifica tu bandeja de entrada.",
+        "backToSignIn": "Volver a iniciar sesión"
+      },
+      "rememberPassword": "¿Recuerdas tu contraseña?",
+      "signIn": "Inicia sesión"
+    }
+  },
+  "dashboard": {
+    "title": "Panel de control",
+    "subtitle": "Bienvenido a tu centro de administración de activos",
+    "stats": {
+      "totalAssets": "Total de activos",
+      "platforms": "Plataformas",
+      "tags": "Etiquetas"
+    },
+    "recentAssets": {
+      "title": "Recursos recientes",
+      "viewAll": "Ver todo",
+      "noPlatform": "Sin plataforma",
+      "noAssets": "Aún no hay activos",
+      "addFirst": "Añade tu primer activo"
+    }
+  },
+  "assets": {
+    "title": "Recursos",
+    "summary": "{count} activos en total",
+    "noAssets": "No se encontraron recursos",
+    "noAssetsYet": "Sin activos aún",
+    "viewAsset": "Ver",
+    "create": {
+      "title": "Agregar nuevo activo",
+      "subtitle": "Cataloga un nuevo activo digital en tu biblioteca",
+      "newBtn": "Nuevo activo",
+      "submit": "Crear activo"
+    },
+    "edit": {
+      "title": "Editar activo",
+      "subtitle": "Actualizar detalles del activo",
+      "submit": "Actualizar activo"
+    },
+    "form": {
+      "title": "Título",
+      "titlePlaceholder": "Nombre del activo",
+      "platform": "Plataforma",
+      "purchaseUrl": "URL de compra",
+      "notes": "Notas",
+      "tags": "Etiquetas",
+      "notesPlaceholder": "Notas opcionales sobre este activo...",
+      "save": "Guardar",
+      "cancel": "Cancelar",
+      "saving": "Guardando...",
+      "creating": "Creando...",
+      "updating": "Actualizando...",
+      "selectPlatform": "Selecciona una plataforma...",
+      "selectPlatformName": "Selecciona un nombre de plataforma"
+    },
+    "messages": {
+      "created": "Activo creado",
+      "updated": "Activo actualizado",
+      "deleted": "Activo eliminado",
+      "createFailed": "No se pudo crear el activo",
+      "updateFailed": "No se pudo actualizar el activo",
+      "deleteFailed": "No se pudo eliminar el activo",
+      "fetchFailed": "No se pudo obtener el activo"
+    },
+    "upload": {
+      "label": "Imagen de vista previa",
+      "button": "Subir imagen",
+      "previewAlt": "Vista previa",
+      "invalidFileType": "Tipo de archivo inválido. Aceptados: JPEG, PNG, WebP, GIF",
+      "fileTooLarge": "El tamaño del archivo debe ser menor de 5MB",
+      "uploadFailed": "No se pudo cargar la imagen"
+    },
+    "filters": {
+      "search": "Buscar activos...",
+      "searchPlaceholder": "Buscar por título...",
+      "platform": "Plataforma",
+      "tag": "Etiqueta",
+      "allPlatforms": "Todas las plataformas",
+      "allTags": "Todas las etiquetas"
+    },
+    "detail": {
+      "addedOn": "Añadido {date}",
+      "edit": "Editar",
+      "delete": "Eliminar",
+      "deleteTitle": "Eliminar activo",
+      "details": "Detalles",
+      "confirmDelete": "¿Estás seguro de que deseas eliminar este activo?",
+      "confirmDeletePrefix": "¿Seguro que quieres eliminar",
+      "confirmDeleteSuffix": "Esta acción no se puede deshacer.",
+      "deleteConfirm": "Eliminar",
+      "deleting": "Eliminando..."
+    },
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Siguiente",
+      "pageOf": "Página {page} de {totalPages}"
+    }
+  },
+  "platforms": {
+    "title": "Plataformas",
+    "subtitle": "Administra tus cuentas de mercado",
+    "create": {
+      "title": "Agregar plataforma",
+      "newBtn": "Agregar plataforma"
+    },
+    "form": {
+      "name": "Nombre de plataforma",
+      "account": "Nombre de cuenta",
+      "accountPlaceholder": "tu-usuario",
+      "url": "URL de cuenta",
+      "save": "Guardar",
+      "cancel": "Cancelar",
+      "saving": "Guardando...",
+      "update": "Actualizar",
+      "select": "Selecciona una plataforma...",
+      "selectName": "Selecciona un nombre de plataforma"
+    },
+    "messages": {
+      "created": "Plataforma agregada",
+      "updated": "Plataforma actualizada",
+      "deleted": "Plataforma eliminada",
+      "saveFailed": "No se pudo guardar la plataforma"
+    },
+    "empty": "Aún no se añadieron plataformas"
+  },
+  "tags": {
+    "title": "Etiquetas",
+    "subtitle": "Administra etiquetas para organizar tus activos",
+    "create": {
+      "title": "Crear etiqueta",
+      "button": "Agregar"
+    },
+    "form": {
+      "name": "Nombre de etiqueta...",
+      "save": "Agregar",
+      "saving": "Creando...",
+      "cancel": "Cancelar"
+    },
+    "sections": {
+      "default": "Etiquetas predeterminadas",
+      "custom": "Etiquetas personalizadas"
+    },
+    "messages": {
+      "created": "Etiqueta creada",
+      "updated": "Etiqueta actualizada",
+      "deleted": "Etiqueta eliminada",
+      "createFailed": "No se pudo crear la etiqueta",
+      "updateFailed": "No se pudo actualizar la etiqueta",
+      "deleteFailed": "No se pudo eliminar la etiqueta"
+    },
+    "actions": {
+      "edit": "Editar",
+      "delete": "Eliminar",
+      "count": "Etiquetas personalizadas ({count})"
+    },
+    "selector": {
+      "label": "Etiquetas",
+      "placeholder": "Selecciona etiquetas...",
+      "default": "predeterminada",
+      "empty": "No hay etiquetas disponibles"
+    },
+    "empty": "Aún no hay etiquetas personalizadas. Crea una arriba."
+  },
+  "errors": {
+    "pageNotFound": "La página que buscas no existe",
+    "goBack": "Volver al panel de control",
+    "tryAgain": "Intentar de nuevo",
+    "somethingWentWrong": "Algo salió mal",
+    "unexpectedError": "Ocurrió un error inesperado",
+    "tooManyRequests": "Demasiadas solicitudes. Por favor, inténtalo más tarde."
+  },
+  "common": {
+    "loading": "Cargando...",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "add": "Agregar",
+    "create": "Crear",
+    "close": "Cerrar",
+    "submit": "Enviar",
+    "confirm": "Confirmar"
+  }
+}
